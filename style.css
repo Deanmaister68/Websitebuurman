@@ -24,6 +24,22 @@
 
   body{background-color: #A2E4B8;}
   h1{text-align: center;}
-  h2{text-align: center;}
-  h3{text-align: center;}
-  p{text-align: center;}
+.roda{float: right;
+  height: 150px;
+  width: 150px;}
+
+  .box{float: right;
+  height: 150px;
+  width: 150px;}
+
+  .scooter{float: right;
+height: 150px;
+width: 150px;}
+
+.uitgaan{float: right;
+  height: 150px;
+  width: 150px;}
+
+.gamen{float: right;
+  height: 150px;
+  width: 150px;}
