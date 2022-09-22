@@ -45,13 +45,17 @@
   width: 200px;}
 
 .blauw{float: right;
-  height: 200px;
-  width: 200px;}
+  height: 300px;
+  width: 300px;}
 
 .Mexicaans{float: right;
-  height: 200px;
-  width: 200px;}
+  height: 300px;
+  width: 300px;}
 
-.school{float: right;
-  height: 200px;
-  width: 200px;}
+.school{float: left;
+  height: 300px;
+  width: 300px;}
+
+.Kerkrade{float: left;
+  height: 300px;
+  width:  500px;}
